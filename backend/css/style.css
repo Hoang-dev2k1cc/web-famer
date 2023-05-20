@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.tophead{
+    position: relative;
+    background-color: #999;
+    height: 43px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.lmenu{
+    display: flex;
+}
+.lmenu li{
+    list-style: none;
+    padding: 10px;
+    position: relative;
+    float: left;
+    font-size: 12px;
+}
+.lmenu li a {
+    position: relative;
+    display: block;
+    line-height: 23px;
+    padding: 0 -7px 0 39px;
+    color: #333;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'ROBOTO';
+}
+
+
+.main-login{
+    border-right: 1px solid #e5e5e5;
+    margin-right: -8px;
+  
+    padding-right: 11px;
+}
+.main-register{
+    border-right: 1px solid #e5e5e5;
+    margin-right: 18px;
+    padding-right: 11px;
+    margin-left: 19px;
+}
+.downhead img{
+    height: 191px;
+    margin-top: -31px;
+    margin-left: -19px;
+}
+
+.downhead ul {
+    display: flex;
+}
+.downhead-center ul li {
+    text-decoration: none;
+    list-style: none;
+    margin-right: 52px;
+    margin-top: 44px;
+}
+.downhead-bottom ul li{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 32px;
+    margin-top: 44px;
+}
+.banner img{
+    width: 100%;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 293px;
+    padding-bottom: 16px;
+}
+.title  p {
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px 0 10px 0;
+}
+.hot-item p {
+    font-size: 16px;
+    color: #000;
+    font-weight: 500;
+    text-transform: uppercase;
+text-align: center;
+}
+.new-item p {
+    font-size: 16px;
+    color: #000;
+    font-weight: 500;
+    margin-top: -14px;
+}
+.new-item p1{
+    font-size: 18px;
+    font-weight: 600;
+}
+.hot-item{
+    font-size: 18px;
+    font-weight: 600;
+
+}
+.banner3{
+    background-image: url('img/banner3.jpg');
+    height: 596px;
+    width: 1360px;
+}
+.banner3 p {
+color: #f0f0f0;
+
+position: absolute;
+margin-left: 573px;
+    margin-top: 168px;
+}
+.banner3 p1{
+    color: #f0f0f0;
+    position: absolute;
+    margin-top: 300px;
+    /* top: -35px; */
+    margin-left: 661px;
+    font-weight: bold;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.ft-top p {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 41px 0 20px;
+}
+.ft-top p1{
+    font-size: 1rem;
+}
+.ft-top input{
+    height: 50px;
+    margin-left: 5px;
+    position: relative;
+}
+.ft-top button{
+    height: 50px;
+    color: white;
+    background: black;
+    margin-left: -5px;
+    width: 100px;
+}
+.ft-top p3{
+    margin-top: 25px;
+    font-weight: 500;
+    position: absolute;
+}
+.icon-lh{
+    position: absolute;
+    margin-top: 67px;
+}
+.icon-lh ul{
+    display: flex;
+}
+.icon-lh ul li{
+    list-style: none;
+    margin-right: 20px;
+    font-size: 30px;
+}
+.ft-center {
+    margin-top: 32px;
+    margin-bottom: 10px;
+}
+.ft-bottom{
+    border-top: 1px solid #999;
+}
+.ft-bottom p {
+    margin-left: 108px;
+    margin-top: 20px
+;
+font-size: 1rem;
+}
+.ft-bottom img{
+    margin-left: 294px;
+}
+.main-funct {
+    padding: 10px;
+    position: relative;
+    float: left;
+    font-size: 12px;
+    display: flex;
+    margin-left: 170px;
+
+}
+.main-funct a {
+   
+    display: block;
+    line-height: 23px;
+    padding: 0 -7px 0 39px;
+    color: #333;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'ROBOTO';
+    margin-right: 15px;
+}
+.form-control{
+    margin-bottom: 11px;
+    display: block;
+    width: 80%;
+    margin-left: 62px;
+    border-radius: 1px;
+    
+}
+.btn{
+    width: 74%;
+    margin-left: 62px;
+    border-radius: 1px;
+    background-color: #000;
+    color: #f0f0f0;
+}
+.ft-login{
+    margin-left: 62px;
+    display: flex;
+    margin-top: 10px;
+}
+.contentinput{
+    margin-left: -1px;
+}
+.left-body ul li{
+list-style:none;
+}
+.left-body h2{
+    right: -94px;
+    position: relative;
+}
